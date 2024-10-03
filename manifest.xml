@@ -1,0 +1,15 @@
+<manifest android:versionCode="417" android:version
+Name="3.​11.​3" android:compile
+SdkVersion="34" android:compile
+SdkVersion Code
+name="14"android:required
+Split
+Types="base_​_
+​abi,base_​_
+​density" android:split
+Types={","package="gov.​ca.​lot.​caLottery App" platformBuild
+VersionCode="34" platformBuild
+VersionName="14" xmlns:android="http://schemas.​android.​com/apk/res/android"<usessdkandroid:min
+SdkVersion="23"										android:target										SdkVersion="34"/><uses-permission android:name="android.​permission.​ACCESS_​​LOCATION" />
+<uses-permission							android:name="android.​permission.​READ_​EXTERNAL_​STORAGE" 
+/>
